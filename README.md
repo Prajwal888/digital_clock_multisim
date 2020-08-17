@@ -5,4 +5,4 @@ There are 3 push buttons:
 2. MIN - It increments the minutes.
 3. HOUR - It increments the hours.
 
-Hours are from 1-12 and the dot after hours tells about AM/PM. When the time is AM, the dot is off. When the time is PM, the dot is on. 
+Hours are from 1-12 and the dot (decimal point) after hour tells about AM/PM. When the time is AM, the dot is off. When the time is PM, the dot is on. 
